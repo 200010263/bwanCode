@@ -10,6 +10,7 @@ public class OneController {
     public String hello(){
         System.out.println("gitee have update");
         System.out.println("master commit!");
+        System.out.println("second commit!");
         return "hello world!";
     }
 }
