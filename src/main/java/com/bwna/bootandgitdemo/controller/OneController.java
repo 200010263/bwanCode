@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class OneController {
 
     public String hello(){
+        System.out.println("gitee have update");
         return "hello world!";
     }
 }
