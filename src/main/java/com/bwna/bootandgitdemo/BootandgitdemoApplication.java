@@ -8,6 +8,7 @@ public class BootandgitdemoApplication {
 
     public static void main(String[] args) {
         System.out.println("update");
+        System.out.println("又更改了一次！");
         SpringApplication.run(BootandgitdemoApplication.class, args);
     }
 
