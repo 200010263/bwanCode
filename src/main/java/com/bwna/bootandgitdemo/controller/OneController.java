@@ -12,6 +12,7 @@ public class OneController {
         System.out.println("master commit!");
         System.out.println("second commit!");
         System.out.println("second commit2");
+        System.out.println("master commit2");
         return "hello world!";
     }
 }
